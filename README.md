@@ -1,8 +1,10 @@
 # Oitavo-Projeto
 -----
 
-Orientação
-´´´
+# Orientação
+----
+
+```
 [8] Desenvolvimento do projeto do primeiro trimestre:
 
 	[8.1] Calculadora aritmética: 
@@ -18,4 +20,4 @@ Orientação
 	[8.6] Unifique todos os projetos em um projeto multiform.
 	
 DICA: Utilize os elementos TForm, TImage, TButton, TEdit e TLabel. 
-´´´
+```

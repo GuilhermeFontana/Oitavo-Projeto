@@ -5,6 +5,7 @@
 ----
 
 ```
+//Criar um pascal que
 [8] Desenvolvimento do projeto do primeiro trimestre:
 
 	[8.1] Calculadora aritmética: 

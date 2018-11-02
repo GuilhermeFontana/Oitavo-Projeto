@@ -22,3 +22,11 @@
 	
 DICA: Utilize os elementos TForm, TImage, TButton, TEdit e TLabel. 
 ```
+
+By
+-----
+```
+Guilherme Fontana
+Aluno do segundo ano do ensino médio
+2018
+```
